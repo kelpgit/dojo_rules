@@ -7,3 +7,4 @@ HTML/CSS
 
 * CSS
 * HTNML
+* Killing history using git rebase
